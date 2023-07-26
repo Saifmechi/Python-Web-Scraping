@@ -1,6 +1,6 @@
 <h1 align='center'> Python Web Scraping Repository 🕸️🐍</h1>
 
-![Python Web Scraping](https://example.com/web_scraping_logo.png)
+
 
 Welcome to the Python Web Scraping repository! This repository contains web scraping projects using Python, where I've scraped data from various websites and APIs to gather valuable information for analysis.
 
