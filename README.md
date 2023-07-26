@@ -8,7 +8,7 @@ Welcome to the Python Web Scraping repository! This repository contains web scra
 
 ### 🕷️ Selenium: Scraping Facebook Page Comments 📝
 
-[View Jupyter Notebook](https://github.com/Saifmechi/Python-Web-Scraping/blob/main/Selenium%20Scraping%20Facebook%20Page%20Comments.ipynb)
+[View Jupyter Notebook](https://github.com/Saifmechi/Python-Web-Scraping/blob/main/Selenuim_Scraping_Facebook_Page_Comments.ipynb)
 
 In this project, I've developed a web scraping script using Selenium to extract comments from Facebook pages. The script allows you to specify the number of comments you want to scrape and automatically loads more comments by clicking the "Voir plus de commentaires" (See more comments) button multiple times.
 The script utilizes Python, Selenium WebDriver, and BeautifulSoup to navigate through Facebook's dynamic content and extract the comments from the comments frame. It provides an efficient and automated way to gather comments for in-depth analysis or sentiment analysis.
