@@ -30,7 +30,7 @@ In this project, I've scraped product data from both Jumia and Tunisianet e-comm
 
 ## Skills 🔧
 
-These projects demonstrate my skills in web scraping, data extraction, data cleaning, and data analysis using Python and relevant libraries like BeautifulSoup and Requests.
+These projects demonstrate my skills in web scraping, data extraction, data cleaning, and data analysis using Python and relevant libraries like `Selenuim`, `BeautifulSoup` and `Requests`.
 
 ## Usage 🖱️
 
