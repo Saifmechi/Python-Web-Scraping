@@ -16,7 +16,7 @@ The script utilizes Python, Selenium WebDriver, and BeautifulSoup to navigate th
 
 ### 💼 Glassdoor Companies Web Scraping 🔍
 
-[View Jupyter Notebook](https://github.com/Saifmechi/Python-Web-Scraping/blob/main/glassdoor-web-scraping.xpynb)
+[View Jupyter Notebook](https://github.com/Saifmechi/Python-Web-Scraping/blob/main/glassdoor-jobs-scraping.ipynb)
 
 In this project, I've scraped job listing data from Glassdoor to analyze and compare job opportunities among different companies. The notebook includes data scraping, data preprocessing, and data analysis to provide insights into the job market.
 
