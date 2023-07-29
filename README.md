@@ -14,7 +14,7 @@ In this project, I've developed a web scraping script using Selenium to extract 
 The script utilizes Python, Selenium WebDriver, and BeautifulSoup to navigate through Facebook's dynamic content and extract the comments from the comments frame. It provides an efficient and automated way to gather comments for in-depth analysis or sentiment analysis.
 
 
-### 💼 Glassdoor Companies Web Scraping 🔍
+### 💼 Glassdoor Jobs Scraping 🔍
 
 [View Notebook](https://github.com/Saifmechi/Python-Web-Scraping/blob/main/glassdoor-jobs-scraping.ipynb)
 
